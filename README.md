@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 
 </p>
 <p>
-<img alt="Next.js" src ="https://img.shields.io/badge/Next.js-F7DF1E.svg?&style=for-the-badge&logo=Next.js&logoColor=black"/>
+<img alt="React.js" src ="https://img.shields.io/badge/React.js-109989.svg?&style=for-the-badge&logo=React.js&logoColor=white"/>
+<img alt="Next.js" src ="https://img.shields.io/badge/Next.js-FF6F00.svg?&style=for-the-badge&logo=Next.js&logoColor=black"/>
 <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-F7DF1E.svg?&style=for-the-badge&logo=Vue.js&logoColor=blue"/>
 <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 </p>
